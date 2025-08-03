@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "✅ Bot berjalan normal."
+  "maintenance": true,
+  "message": "🚧 Bot sedang maintenance: Ada penyusup!!"
 }
