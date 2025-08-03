@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "🚧 BOT SEDANG MAINTENANCE 🚧\nALASAN : PEMBATASAN PENGGUNA BOT!!"
+  "maintenance": true,
+  "message": "🚧 Bot sedang maintenance: lagi"
 }
