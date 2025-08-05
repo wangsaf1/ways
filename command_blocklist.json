@@ -1,5 +1,5 @@
 {
-  "/delayxlow": false,
+  "/delayxlow": true,
   "/crashdocx": false,
   "/start": false
 }
